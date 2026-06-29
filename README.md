@@ -1,6 +1,6 @@
 # learning-cpp-journey
 
-LEARNING JOURNEY 
+LEARNING JOURNEY
 Personal repository documenting my advancements and dive into modern C++ (C++17/20). This workspace tracks my progress and advancemets through learncpp.com, focusing on efficient code for high-performance applications.
 
 OBJECTIVE
