@@ -14,3 +14,5 @@ The objective is to bridge tha gap between academic theory and real-world engine
  - Efficency
  - Modern C++ Practices
  - Use of Standard Libraries
+
+![Progress](https://img.shields.io/badge/Progress-Chapter%205-blue)
