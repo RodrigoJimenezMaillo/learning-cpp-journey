@@ -13,7 +13,7 @@ int main(){
     int x{};
     std::cin >> x;
    // std::cout << "You entered the number: " << x << '\n';
-    std::cout << "The double of number " << x << " is: " << 2*x << '\n';
+    std::cout << "The double of number " << x << " is: " << 2*x << '\n'; 
     std::cout << "The triple of number " << x << " is: " << 3*x << '\n';
     return 0;
 }
