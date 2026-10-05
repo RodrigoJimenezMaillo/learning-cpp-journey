@@ -14,6 +14,6 @@ int main(){
     std::cin >> x;
    // std::cout << "You entered the number: " << x << '\n';
     std::cout << "The double of number " << x << " is: " << 2*x << '\n'; 
-    std::cout << "The triple of number " << x << " is: " << 3*x << '\n';
+    std::cout << "The triple of number " << x << " is: " << 3*x << "Did you like it twin? " << '\n';
     return 0;
 }
