@@ -10,4 +10,3 @@
 # Artefactos de compilación de macOS y VS Code
 *.dSYM/
 .build/
-
